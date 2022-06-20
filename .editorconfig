@@ -1,4 +1,4 @@
-root = 
+root 
 
 [*.{jelly, js, less, css, hbs}]
 indent_style = space
