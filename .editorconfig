@@ -1,4 +1,4 @@
-root = true
+root = ture
 
 [*.{jelly, js, less, css, hbs}]
 indent_style = space
