@@ -1,4 +1,4 @@
-#!/usr/bin/env groovy
+#!/usr/bin/env groo
 
 /*
  * This Jenkinsfile is intended to run on https://ci.jenkins.io and may fail anywhere else.
