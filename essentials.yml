@@ -6,4 +6,4 @@ ath:
   categories:
     - org.jenkinsci.test.acceptance.junit.SmokeTest
   jdks:
-    - 11
+    - 12
